@@ -1,1 +1,11 @@
-
+<xml>
+  <ID>1</ID>
+  <Data>"03.05.2022"</Data>
+  <Author>"Michail_L"</Author>
+  <Severity>"Major"</Severity>
+  <Priority>"Medium"</Priority>
+  <Summary>"Title"</summary>
+  <Environment>"Win_10/Google Chrome/gitbash"</Enviromment>
+  <Actual result>""</Actual result>
+  <Expect result>""</Expect result>
+  <Attachments>""</Attachments>
